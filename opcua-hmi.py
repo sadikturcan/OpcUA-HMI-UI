@@ -11,7 +11,7 @@ from matplotlib.figure import Figure
 from matplotlib.animation import FuncAnimation
 import threading
 
-#192.168.0.20:4870
+
 
  
 def opcuaconnection(url,enteredsec,rvalue2):
